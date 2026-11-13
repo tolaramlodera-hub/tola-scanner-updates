@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "downloadUrl": "https://github.com/tolaramlodera-hub/tola-scanner-updates/releases/download/v1.0.1/tola-scanner-signed-release-apk.zip",
-  "releaseNotes": "Tola Scanner 1.0.2: improved in-app updater. The updater downloads the signed ZIP release asset and extracts app-release.apk before installation."
+  "version": "1.0.0",
+  "versionCode": 1,
+  "downloadUrl": "",
+  "releaseNotes": "Update feed will be enabled after the compatible 1.0.2 signed APK is published."
 }
